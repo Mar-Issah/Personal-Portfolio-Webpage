@@ -6,7 +6,7 @@ This is an example of a portfolio webpage
 
 ![Personal Portfolio Webpage](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617298125/My%20Website%20Projects/personal_port_wlenpr.png)
 
-This is a simple web application web application project mainly to practice my HTML5 and CSS3 skills. T
+This is a simple web application web application project mainly to practice my HTML5 and CSS3 skills.
 
 <br>
 
@@ -69,7 +69,7 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 ## Contact :e-mail:
 
-Marsiya Issah - masy370@gmail.com
+Marsiya Issah : masy370@gmail.com
 
 Project Link: [https://github.com/Mar-Issah/Personal-Portfolio-Webpage.git](https://github.com/Mar-Issah/Personal-Portfolio-Webpage.git)
 
