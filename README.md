@@ -25,13 +25,13 @@ This is a simple web application web application project mainly to practice my H
 
 ### Installation
 
-1. Clone the repo on your local machine
+1. Clone the repo on your local machine.
    ```sh
    git clone https://github.com/Mar-Issah/Personal-Portfolio-Webpage.git
    ```
-2. Dowload and install [Visual Studio Code](https://code.visualstudio.com/)
-3. Install live server extension
-4. Open index.html file with live server
+2. Dowload and install [Visual Studio Code](https://code.visualstudio.com/).
+3. Install live server extension.
+4. Open index.html file with live server.
 
 
 <br>
@@ -40,7 +40,7 @@ This is a simple web application web application project mainly to practice my H
 
 ## Project View
 
-[Click here](https://codepen.io/marsiya-issah/full/JjROdPB) to view project on CodePen
+[Click here](https://codepen.io/marsiya-issah/full/JjROdPB) to view project on CodePen.
 
 
 <br>
