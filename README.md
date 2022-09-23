@@ -1,6 +1,6 @@
 # My  Personal Portfolio Webpage
 
-This is an example of a portfolio webpage.
+This is an example of my portfolio webpage.
 
 ## About The Project
 
