@@ -73,6 +73,6 @@ Marsiya Issah : masy370@gmail.com
 
 Project Link: [https://github.com/Mar-Issah/Personal-Portfolio-Webpage.git](https://github.com/Mar-Issah/Personal-Portfolio-Webpage.git)
 
-Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
+Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/).
 
 
